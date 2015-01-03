@@ -1,5 +1,7 @@
 # Mini-project #6 - Blackjack
 
+# this explains how to use a simple gui
+
 import simplegui
 import random
 
