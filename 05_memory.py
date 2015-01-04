@@ -1,4 +1,7 @@
 # implementation of card game - Memory
+# See readme for directions on how to execute this code...
+
+# Match cards to win game
 
 import simplegui
 import random

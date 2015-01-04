@@ -1,4 +1,6 @@
-# program template for Spaceship
+# mini-project, Asteroids!
+# See readme for directions on how to execute this code...
+
 import simplegui
 import math
 import random

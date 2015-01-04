@@ -1,4 +1,6 @@
-# program template for Spaceship
+# First half of androids project, called Spaceship
+# See readme for directions on how to execute this code...
+
 import simplegui
 import math
 import random

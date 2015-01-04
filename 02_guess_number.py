@@ -1,4 +1,6 @@
-# template for "Guess the number" mini-project
+# mini-project: "Guess the number" 
+# See readme for directions on how to execute this code...
+
 # input will come from buttons and an input field
 # all output for the game will be printed in the console
 import simplegui
